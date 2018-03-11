@@ -1,0 +1,3 @@
+server="portal-mongodb"
+database="news_db"
+collection="posts"
