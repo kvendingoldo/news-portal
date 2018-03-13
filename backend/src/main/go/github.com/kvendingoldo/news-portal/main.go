@@ -6,7 +6,7 @@ import (
 
 	"github.com/gorilla/mux"
 
-	. "github.com/kvendingoldo/news-portal/endpoints"
+	. "github.com/kvendingoldo/news-portal/handlers"
 )
 
 func main() {
